@@ -23,3 +23,9 @@ This repository began as a Resilient Coders / bootcamp coding exercise. The orig
 ## Hosting
 
 These are learning exercises, not currently documented as live hosted applications. They can be run locally using the instructions above. A static project could be published with GitHub Pages if a public demo is useful.
+
+## Live Demo
+
+[Open the Weather App](https://weather-api-bootcamp.onrender.com/)
+
+The application is hosted on Render.
